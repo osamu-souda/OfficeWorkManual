@@ -18,6 +18,8 @@
 ![写真](img/sampleimage.jpg)
 
 ## 宅配便の発送について
+Webから集荷を手配します（http://uketukeshuuka.com
+）。
 ## 電話、来客対応について
 ## ゴミ収集について
 ## プリンタについて
